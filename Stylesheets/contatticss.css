@@ -1,0 +1,20 @@
+table{
+	position:absolute;
+	left:150px;
+	top:150px;
+
+}
+td{
+	padding-bottom:20px;
+
+}
+body{
+	background-image:url(./immagini/sfondored1.jpg);
+	background-size:120%;
+	font: normal 21px/9px Verdana, Geneva, sans-serif;
+}
+a{
+	text-decoration:none;
+	font: normal 21px/9px Verdana, Geneva, sans-serif;
+	
+}

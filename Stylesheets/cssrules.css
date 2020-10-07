@@ -1,0 +1,57 @@
+body{background-image:url(Stylesheets/immagini/sfondored.jpg);
+	background-size:120%;}
+.pannello:after{
+	content:'\002b';
+	color:white;
+	font-weight:bold;
+	float:right;
+	margin-left:5px;
+}
+.pannello{
+	background-color:#777;
+	color:yellow;
+	padding:25px;
+	width:100%;
+	border:none;
+	text-align:left;
+	outline:none;
+	font-size:120%;
+	cursor:pointer;
+	font-size:30px;
+	font-family:verdana;
+	border-radius:33px;
+	margin-top:10px;
+	margin-bottom:10px;
+		
+		background-color:#0099ff;
+	
+}
+.active:after{
+	content:"\2212";
+	
+	
+}
+
+.active,.pannello:hover{
+	background-color:#00cc00;
+}
+
+.contenuto{
+	padding:0 18px;
+	max-height:0;
+	overflow:hidden;
+	transition:max-height 0.2s ease-out;
+	background-color:#f1f1f1;
+	font-size:;
+
+	font-family:Verdana;
+	border-radius:33px;
+		
+	}
+.logo{
+	width:110px;
+}
+table{
+	width:100%;
+	text-align:center;
+}

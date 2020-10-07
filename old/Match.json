@@ -1,0 +1,45 @@
+{
+    "players": {
+        "01b4c222da604f79c925d4cb1178292e": "match5ada416b",
+        "f6e82a79aef2de3480f258352d4bf2f2": "match5ada415f"
+    },
+    "matches": {
+        "match5ada415f": {
+            "itsOver": false,
+            "playerList": [
+                {
+                    "id": "01b4c222da604f79c925d4cb1178292e",
+                    "nick": "guglie"
+                },
+                {
+                    "id": "f6e82a79aef2de3480f258352d4bf2f2",
+                    "nick": "bibba"
+                }
+            ],
+            "activePlayer": "guglie",
+            "nextPlayer": "bibba",
+            "currentCard": 108,
+            "maxPlayers": 2,
+            "lastChangeAt": 1524253028,
+            "somma": 0
+        },
+        "": {
+            "itsOver": true
+        },
+        "match5ada416b": {
+            "itsOver": false,
+            "playerList": [
+                {
+                    "id": "01b4c222da604f79c925d4cb1178292e",
+                    "nick": "guglie"
+                }
+            ],
+            "activePlayer": "guglie",
+            "nextPlayer": null,
+            "currentCard": null,
+            "maxPlayers": 2,
+            "lastChangeAt": 1524253035,
+            "somma": 0
+        }
+    }
+}

@@ -1,0 +1,46 @@
+body{
+	background-color:orangered;
+	
+}.card {
+	width:120px;
+	height:180px;
+	background-size: cover;
+	border-radius: 20px;
+	border-color: white;
+}
+
+form {
+	display:inline;
+}
+.bottone{
+  display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  cursor: pointer;
+  padding: 10px 20px;
+  border: 1px solid #018dc4;
+  -webkit-border-radius: 32px;
+  border-radius: 32px;
+  font: normal 20px/normal Verdana, Geneva, sans-serif;
+  color: rgba(255,255,255,0.9);
+  text-overflow: clip;
+  background: -webkit-linear-gradient(-90deg, rgba(242,247,249,1) 0, rgba(242,247,249,1) 6%, rgba(33,180,226,1) 75%, rgba(33,180,226,1) 100%), #1ee8bf;
+  background: -moz-linear-gradient(180deg, rgba(242,247,249,1) 0, rgba(242,247,249,1) 6%, rgba(33,180,226,1) 75%, rgba(33,180,226,1) 100%), #1ee8bf;
+  background: linear-gradient(180deg, rgba(242,247,249,1) 0, rgba(242,247,249,1) 6%, rgba(33,180,226,1) 75%, rgba(33,180,226,1) 100%), #1ee8bf;
+  background-position: 50% 50%;
+  -webkit-background-origin: padding-box;
+  background-origin: padding-box;
+  background-clip: border-box;
+  background-size: auto auto;
+  box-shadow: 3px 3px 2px 0 rgba(0,0,0,0.2) ;
+  text-shadow: -1px -1px 0 rgba(15,73,168,0.66) ;
+ 
+}
+.actual{
+	width:150px;
+	height:220px;
+	background-size: cover;
+	border-radius: 20px;
+	border-color: white;
+}

@@ -1,0 +1,27 @@
+{
+    "players": {
+        "97ccf7b97f7b80b7105878cce9c4d880": "match5adae060",
+        "9c8e0ba2643e36894a9ab4dcff9dd1a9": "match5adae060"
+    },
+    "matches": {
+        "match5adae060": {
+            "itsOver": false,
+            "playerList": [
+                {
+                    "id": "97ccf7b97f7b80b7105878cce9c4d880",
+                    "nick": "guglie"
+                },
+                {
+                    "id": "9c8e0ba2643e36894a9ab4dcff9dd1a9",
+                    "nick": "bibba"
+                }
+            ],
+            "activePlayer": "guglie",
+            "nextPlayer": "bibba",
+            "currentCard": "81",
+            "maxPlayers": 2,
+            "lastChangeAt": 1524293734,
+            "somma": 0
+        }
+    }
+}

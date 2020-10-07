@@ -1,0 +1,29 @@
+.loader{
+			border:16px solid #f3f3f3;
+			border-top:16px solid #3498db;
+			border-bottom:16 px solid #3498db;
+			border-radius:50%;
+			width:250px;
+			height:250px;
+			position:absolute;
+			top:200px;
+			left:500px;
+			animation:2s spin linear infinite;
+}
+
+body
+{	
+background-color:green;
+}
+@keyframes spin{
+	0%{
+		transform:rotate(0deg);
+	}
+	100%{
+		transform:rotate(360deg);
+	}
+}	
+.titolo{
+	width:100%;
+	text-align:center;	
+}	
