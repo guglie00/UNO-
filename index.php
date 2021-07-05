@@ -24,7 +24,7 @@
 		<div class="contenitore">
 		<img  class="logo"src="Stylesheets/immagini/logo.png"/>
 		<div class="fermola">
-		<div class="strobo1">Sign in to start playing</div>
+		<div class="strobo1">Inserisci i dati per giocare</div>
 			<form method="post">
 				<input class="stileform" type="text" placeholder="Username" name="username" required>
 				<input class="stileform" type="password" placeholder="Password" name="password" required>
